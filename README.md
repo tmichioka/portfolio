@@ -24,7 +24,7 @@ Community Assistant @Campus One (October 2022 - May 2023)
 
 
 [My Rmd file](https://github.com/tmichioka/My-project/blob/main/My%20project.Rmd)
-[My bd file](https://github.com/tmichioka/My-project/blob/main/My-project.md)
+[My md file](https://github.com/tmichioka/My-project/blob/main/My-project.md)
 
 
 
