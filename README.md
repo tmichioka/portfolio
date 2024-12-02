@@ -8,5 +8,8 @@
 HBSc Psychology Specialist
 University of Toronto June 2026 (Expected)
 
-###
+### Work Experience
+
+### Project
+
 
