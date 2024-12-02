@@ -21,6 +21,9 @@ Community Assistant @Campus One (October 2022 - May 2023)
 - This study explores whether these aspects predict how much people share about themselves and also looks at whether gender and race affect this pattern 
 - We used a publicly available dataset called *Self-Disclosure and Health*, collected by Ma (2020), in which 393 participants in relationships completed an online survey.
 [Dataset](https://osf.io/bqknw/)
+![](assets/Regression.jpeg)
+![](assets/Partner gender.jpeg)
+
 
 
 [My Rmd file](https://github.com/tmichioka/My-project/blob/main/My%20project.Rmd)
