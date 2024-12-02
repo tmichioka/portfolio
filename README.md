@@ -21,6 +21,7 @@ Community Assistant @Campus One (October 2022 - May 2023)
 - This study explores whether these aspects predict how much people share about themselves and also looks at whether gender and race affect this pattern 
 
 - We used publicly an available dataset collected by Ma (2020), in which 393 participants completed an online survey.
+![](assets/Q＆A.png)
 
   
 
