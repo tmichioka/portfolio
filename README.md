@@ -16,14 +16,18 @@ Community Assistant @Campus One (October 2022 - May 2023)
 
 ### Project
 **Predictors of Self-Disclosure in Romantic Relationships: Love, Trust, or Relationship Satisfaction?**
-- Self-disclosure, or sharing personal information about yourself with others, can bring benefits both to your relationship with your partner and to your own well-being
+- Self-disclosure, or sharing your personal information, feelings or emotions with others, can bring benefits both to your relationship with your partner and to your own well-being
 - While we know that having a strong and healthy relationship encourages people to open up, not much research has looked at how three key parts of a relationship—romantic love, trust, and overall satisfaction—work together to influence self-disclosure
 - This study explores whether these aspects predict how much people share about themselves and also looks at whether gender and race affect this pattern 
 - We used a publicly available dataset called *Self-Disclosure and Health*, collected by Ma (2020), in which 393 participants in relationships completed an online survey.
 [Dataset](https://osf.io/bqknw/)
-![](assets/Regression.jpeg)
-![](assets/Partner gender.jpeg)
 
+![](assets/Regression.jpeg)
+- We found that the more participants loved their partner, the more likely they would open up their emotions to their partners. But surprisingly, feeling satisfied in a relationship or trusting your partner didn’t seem to influence how much people opened up about their emotions.
+![](assets/Partner_gender.jpeg)
+- We also found that the afformentioned effect is stronger for those with male partners compared to those with female partners.
+![](assets/Race.jpeg)
+- Lastly, we discovered that this effect is stronger for black participants than those who self-identify as other races.
 
 
 [My Rmd file](https://github.com/tmichioka/My-project/blob/main/My%20project.Rmd)
